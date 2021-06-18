@@ -12,7 +12,7 @@
                    <img src="https://github.com/mguluerler/Activity-Reminder-with-Arduino/blob/main/figures/secondacts.png"><br>2nd Activities Test Code<br>
                   <img src="https://github.com/mguluerler/Activity-Reminder-with-Arduino/blob/main/figures/secondactsard.png" width=40% height=auto>
   <br>2nd Activities Test Outputs<br>
-                   <img src="https://github.com/mguluerler/Activity-Reminder-with-Arduino/blob/main/figures/3rdacts.png"><br>3rdtivities Test Code<br>
+                   <img src="https://github.com/mguluerler/Activity-Reminder-with-Arduino/blob/main/figures/3rdacts.png"><br>3rd Activities Test Code<br>
                   <img src="https://github.com/mguluerler/Activity-Reminder-with-Arduino/blob/main/figures/3rdactsard.png" width=40% height=auto>
   <br>3rd Activities Test Outputs<br>
                    <img src="https://github.com/mguluerler/Activity-Reminder-with-Arduino/blob/main/figures/4thacts.png"><br>4th Activities Test Code<br>
